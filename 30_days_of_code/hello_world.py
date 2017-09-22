@@ -1,3 +1,12 @@
+"""
+Sample Input :
+Welcome to 30 Days of Code!
+
+Sample Output :
+Hello, World. 
+Welcome to 30 Days of Code!
+"""
+
 class PrintOut():    
     def __init__(self,value):
         self.value = value

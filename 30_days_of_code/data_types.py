@@ -1,4 +1,14 @@
-# Declare second integer, double, and String variables.
+"""
+Sample Input :
+12
+4.0
+is the best place to learn and practice coding!
+
+Sample Output :
+16
+8.0
+HackerRank is the best place to learn and practice coding!
+"""
 
 # Read and save an integer, double, and String to your variables.
 i1 = int(input())
