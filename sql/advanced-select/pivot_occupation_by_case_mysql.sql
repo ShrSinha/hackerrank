@@ -7,7 +7,7 @@ Meera       Singer
 Ashley      Professor
 
 
-Sample Output :
+Sample Output (Names ordered alphabetically):
 Doctor   Professor  Singer Actor 
 Jenny    Ashley     Meera  Jane
 Samantha Christeen  Priya  Julia
