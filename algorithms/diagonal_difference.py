@@ -1,4 +1,10 @@
-#!/bin/python3
+"""Calculate the absolute difference between the sums of a square matrix's diagonals.
+
+Inputs:
+    Square matrix consisting of integers between -100 to 100.
+
+"""
+# Time Complexity: O(n)
 
 import sys
 

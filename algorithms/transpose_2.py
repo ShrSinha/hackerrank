@@ -4,8 +4,7 @@ Inputs:
     Space separated row of integers, with each row on a new line.
 
 """
-
-#!/bin/python3
+# Time Complexity: O(nm)
 import sys
 matrix = []
 while True:
